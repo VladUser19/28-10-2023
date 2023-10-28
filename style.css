@@ -1,0 +1,28 @@
+body{
+	background-color: blueviolet;
+}
+h1{
+   text-align: center;
+   text-decoration: overline;
+   text-decoration: underline;
+   text-decoration: line-through;
+   text-decoration-color: black;
+   font-size: 40px
+}
+
+p{
+   font-size: 20px;
+   border: 5px double black;
+   border-radius: 10px 10px 10px 10px;
+   font-family: Comic Sans Ms;
+}
+
+{ color:yellow; }
+.intro { color: red; }
+p { color: White; }
+p{
+   color: rgb(56, 1, 25);
+}
+p{
+   color: rgba(18, 55, 11, 0.6);
+}
